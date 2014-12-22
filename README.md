@@ -35,112 +35,138 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Planetomachia: or the first parte of the generall opposition of the seuen planets wherein is astrono
+
+1. To the right Honorable the Lord Robert Dudley, Earle of Leicester, Baron of Denbigh, of the honorable order of the Garter, and S. Michael Knight, Master of the Queene• Maiesties Horses, & one of her Highnesse most honorable priu•e Counsell: Robert Greene wisheth increase of Honor & vertue.
+
+1. To the Gentlemen Readers, health.
+
+1. 〈 in non-Latin alphabet 〉 IN EOS QVI VETVstam Astrologiae scientiam derident.
+
+1. In praise of the Author and his Booke.
+
+1. In Epicureos.
+
+1. In 〈 in non-Latin alphabet 〉.
+
 #####Body#####
 
-1. Saturne.
+1. Saturne, Iupiter, Mars, Sol, Venus, Mercurie, Luna.
 
-1. Venus.
+    _ Saturne.
 
-1. Mars.
+    _ Venus.
 
-1. Iupiter.
+    _ Mars.
 
-1. Luna.
+    _ Iupiter.
 
-1. Mars.
+    _ Luna.
 
-1. Saturne.
+    _ Mars.
 
-1. Mercurie.
+    _ Saturne.
 
-1. Iupiter.
+    _ Mercurie.
 
-1. Sol.
+    _ Iupiter.
 
-1. Saturne.
+    _ Sol.
 
-1. Venus.
+    _ Saturne.
 
-1. Sol.
+    _ Venus.
 
-1. Venus Astronomicall description of Saturne.
+    _ Sol.
 
-1. A maruelous Anatomie of Saturnistes.
+    _ Venus Astronomicall description of Saturne.
 
-1. Venus Tragedie.
+    _ A maruelous Anatomie of Saturnistes.
 
-1. Rodento Celij to the Ladie Pasilla, health and happinesse.
+    _ Venus Tragedie.
 
-1. Pasylla to Rodento Coeli• wisheth as shee ought.
+    _ Rodento Celij to the Ladie Pasilla, health and happinesse.
 
-1. Saturne.
+    _ Pasylla to Rodento Coeli• wisheth as shee ought.
 
-1. Venus.
+1. Saturne, Iupiter, Mars Sol, Venus, Mercurie, Luna.
 
-1. Luna.
+    _ Saturne.
 
-1. Venus.
+    _ Venus.
 
-1. Mercurie.
+    _ Luna.
 
-1. Iupiter.
+    _ Venus.
 
-1. Mars.
+    _ Mercurie.
 
-1. Luna.
+    _ Iupiter.
 
-1. Sol.
+    _ Mars.
 
-1. Saturne.
+    _ Luna.
 
-1. Lunas Astronomicall description of Venus.
+    _ Sol.
 
-1. Saturnes Tragedie.
+    _ Saturne.
 
-1. Iupiter.
+    _ Lunas Astronomicall description of Venus.
 
-1. Venus.
+    _ Saturnes Tragedie.
 
-1. Mars.
+1. ¶ A briefe Apologie of the sacred Science of Astronomie.
 
-1. Luna.
+1. AMICO SVO AMANTISSIMO FRANCISCO HANDO IN ARTIBVS MAGISTRO DIAlogus sanequam venustus ex operibus Ioan: Ioui: Ponta: breuissimae excerptus Dicatus.
 
-1. Saturne.
+1. Saturne. Iupiter. Mars. Soll. Venus. Mercurie. Luna.
 
-1. Mercurie.
+    _ Iupiter.
 
-1. Soll.
+    _ Venus.
 
-1. Iupiter.
+    _ Mars.
 
-1. Soll.
+    _ Luna.
 
-1. Iupiters Astronomicall description of Mars.
+    _ Saturne.
 
-1. Iupiter.
+    _ Mercurie.
 
-1. Charaxes of Libia to the Scithian Princesse Lyndana, graunteth life.
+    _ Soll.
 
-1. Lyndana of Scithia to the Tyrant Charaxes disdaine.
+    _ Iupiter.
 
-1. Mars.
+    _ Soll.
 
-1. Saturne.
+    _ Iupiters Astronomicall description of Mars.
 
-1. Venus.
+1. Iupiters Tragedie.
 
-1. Luna.
+    _ Iupiter.
 
-1. Mercurie.
+    _ Charaxes of Libia to the Scithian Princesse Lyndana, graunteth life.
 
-1. Iupiter.
+    _ Lyndana of Scithia to the Tyrant Charaxes disdaine.
 
-1. Soll.
+1. Saturne. Iupiter. Mars. Soll. Venus. Mercurie. Luna.
 
-1. Mars.
+    _ Mars.
 
-1. Soll.
+    _ Saturne.
+
+    _ Venus.
+
+    _ Luna.
+
+    _ Mercurie.
+
+    _ Iupiter.
+
+    _ Soll.
+
+    _ Mars.
+
+    _ Soll.
 
 **Types of content**
 
